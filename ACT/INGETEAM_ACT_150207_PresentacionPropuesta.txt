@@ -1,0 +1,15 @@
+Presentación Propuesta INGETEAM
+
+Agenda / Temas a tratar (propuesta)
+ 
+- Presentación del candidato
+- Experiencia en la implementación de CRM en empresas
+- Conocimientos técnicos sobre las diferentes plataformas CRM
+    - SalesForce, MS Dynamics, SAP, Oracle, otras.
+- Elementos claves para la implementación del CRM de forma exitosa.
+- Elementos técnicos críticos:
+    - Integración SAP (artículos, precios, disponibilidad)
+    - Módulo de ofertas (artículos / proyectos)
+    - Módulo de workflow
+- Indice propuesto para el documento
+- Oferta técnico-económica
