@@ -1,0 +1,25 @@
+IDIOMAS INTERFAZ (CRM-UI)
+- Español
+- Inglés
+- Francés 
+- Portugués
+- Italiano
+- Alemán
+
+Consultar:
+- árabe
+- japonés
+- chino
+- indio
+
+Tablas Maestras de información (Valores)
+- Inglés
+
+CAMPOS DE COMENTARIOS personales (KAM)
+- Libre ¿Integración con los diccionarios del S.O.?
+
+Descripción de Productos
+- SAP - Existira´valiros idiomas. Si no existe el necesario para algún proceso CRM, => Inglés por defecto.
+
+Ofertas comerciales
+=CRM-UI
