@@ -74,19 +74,20 @@ FUNCIONES CRM IPT:
 
 
 PROX.ACCION
-Mañana: 
+Miércoles: 
 - Cap5 + Rev 1-4
 - Preparar próxima semana con JC: reuniones con otras áreas ¿Cuáles?
 - Actualizar índice
 - Documentar BDs en cap8 EFS
 - Actualizar C1.3 EFS
+- BD(Regiones): Europe, LATAM, North-America, Africa, Middle-East, Asia, Oceania - ¿Quién asocia países a regiones? - ¿JC?
+- BD(Países) - ISO-  2 y 3 - ¿Quién lo hace? -Nos ofrecemos en el email
 
+Martes:
 - Sistema de RRHH para el directorio de personal - Juan Carlos
 - Enviar captura informe de tiempos de atención comercial - Javier
+- Pedir acceso WIFI a Iván Guzmán (email cc a JVV) - CS
 
-- Pedir acceso WIFI a Iván Guzmán (email cc a JVV)
-- BD(Regiones): Europe, LATAM, North-America, Africa, Middle-East, Asia, Oceania - ¿Quién asocia países a regiones?
-- BD(Países) - ISO-  2 y 3 - ¿Quién lo hace? -Nos ofrecemos en el email
 
 INTEGRACIONES
 - Sistema de RRHH para el directorio de personal ¿incluye Filiales?
