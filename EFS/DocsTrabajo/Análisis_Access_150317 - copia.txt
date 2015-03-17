@@ -1,0 +1,32 @@
+Empresas N-M Contactos
+
+BD4 - ¿Leads? Es eficiente? ¿Necesaria? ¿Atributos?
+
+BD11 - Actividades/Acciones con Clientes + Comentarios de Empresas
+
+BD(20) - Relaciones entre empresas
+
+BD(Y) - Price Benchmark
+
+BD(WF) - Un WF nace de una Oferta. Existe un recorrido, un camino, para una venta A->B.
+A=Detección oportunidad
+B=Venta cerrada
+Pueden existir N problemas:
+p1:BOM no definible
+p2:precio suelo no reducible. Si lo tenía que rebajar, requería autorización.
+p3:condiciones de pago (nº pagos, forma de pago, importe umbral requiere aprobación, límite de crédito en base de informes de riesgo cliente, o del seguro de impagos, procedente del ERP)
+p4:logística - stock, pesos, volúmenes, transportes, construcción
+p :plazos (entregas material, transportes, construcción)
+p :condiciones legales (paralelo)
+Asignación de personas responsables en cada paso (persona pendiente de hacer algo)
+Cada paso tenía su pantalla/formulario
+
+¿Control de tiempos por tarea, por actividad/proceso, de roll-backs, etc.?
+
+OFERTAS:
+Prob=0 -> Oferta perdida - no puede recuperarse, para mantener histórico.
+Campo para vincular nuevas ofertas con antiguas.
+Estado de la oferta: f(WF)
+
+
+
