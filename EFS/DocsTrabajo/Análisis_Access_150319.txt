@@ -1,4 +1,11 @@
-Ver foto
+Carlos Lezama - Comercial / Marketing
+Encuestas, newsletters y notas de prensa: todos los días se recopilan noticias que se envían al día siguiente a destinatarios internos. Se hace montando un email con un titular y enlace por noticia.
+En el CRM sería interesante disponer de un espacio (banner) con la noticia del día.
+- Documentará la jerarquía de familias de productos
+- Newsletters: inventario de los que se manejan en FV
+
+
+Ver fotos móvil
 
 BD1 - Empresas, con nº matrícula asociada al nºEmpresaSAP - IPT:CRM con código propio, relacionado de forma unívoca con SAP (1-1) -> Hay que definir un procedimiento de validación de altas en SAP para evitar duplicados en SAP.
 SAP: 100- cliente / 400- Interno / 300-Dirección de entrega de otra empresa
