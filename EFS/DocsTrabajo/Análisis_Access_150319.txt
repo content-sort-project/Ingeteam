@@ -42,6 +42,7 @@ A=Detección oportunidad
 B=Venta cerrada
 Pueden existir N problemas:
 p1:BOM no definible
+p12: Delivery (plazos de entrega)
 p2:precio suelo no reducible. Si lo tenía que rebajar, requería autorización.
 p3:condiciones de pago (nº pagos, forma de pago, importe umbral requiere aprobación, límite de crédito en base de informes de riesgo cliente, o del seguro de impagos, procedente del ERP)
 p4:logística - stock, pesos, volúmenes, transportes, construcción
@@ -58,6 +59,15 @@ Campo para vincular nuevas ofertas con antiguas.
 Estado de la oferta: f(WF), que implicaba un %Prob, y responsable asignado actividad pendiente.
 
 GRUPOS DE USUARIOS (Cap5) -ver Excel)
+PostVenta SAT:
+- Venta de repuestos (Eduardo Cordovín)
+- Reparaciones en fábrica
+- Asistencia técnica, puestas en marcha y formación (Andrés Pinilla)
+- Ingeteam Service (Albacete) - Contratos de operación y mantenimiento
+
+Explicar por qué estos dos departamentos no serán grupo de usuarios:
+- Personal de Post-Venta SAT - Asistencias en campo (AS-F)
+- Soporte técnico a la venta (I+D)
 
 MENU
 BDs 1, 2, 5, 9, 3(SAP)
@@ -87,13 +97,13 @@ FUNCIONES CRM IPT:
 PROX.ACCION
 Miércoles: 
 - Cap5 + Rev 1-4
-- Preparar próxima semana con JC: reuniones con otras áreas ¿Cuáles?
-- Actualizar índice
-- Documentar BDs en cap8 EFS
-- Actualizar C1.3 EFS
-- BD(Regiones): Europe, LATAM, North-America, Africa, Middle-East, Asia, Oceania - ¿Quién asocia países a regiones? - ¿JC?
-- BD(Países) - ISO-  2 y 3 - ¿Quién lo hace? -Nos ofrecemos en el email
-- JC: Descripción pefiles de puestos (RRHH)
+- Actualizar índice - CS
+- Documentar BDs en cap8 EFS - CS
+- Actualizar C1.3 EFS - CS
+- BD(Regiones): Europe, LATAM, North-America, Africa, Middle-East, Asia, Oceania - ¿Quién asocia países a regiones? - CS estándar
+- BD(Países) - ISO-  2 y 3 - CS estándar
+- Enviar a JC Grupos de Usuarios
+
 
 Martes:
 - Sistema de RRHH para el directorio de personal - Juan Carlos
@@ -102,6 +112,13 @@ Martes:
 
 PROX.SEMANA
 - BD9 - Gestión Incidencias I+D (Access?) 
+- Carlos Martínez (Admin.Financiera) y Cristina Egurza (Admin.Pedidos FV) (SAP): Uso del CRM, qué esperan. Productos en SAP (Jerarquía, precios, ...)
+- Iván: temas técnicos CRM
+- Descripción pefiles de puestos (RRHH) - Itziar Urbiola
+- Venta de repuestos (Eduardo Cordovín) - Uso crm, qué espera...
+- JC:  conseguir documento "Perfil de puesto"
+- Plan Maestro de Producción (PMP) - Cristina Medrano y JC
+- Seguir con la revisión de los Grupos de Usuarios
 
 INTEGRACIONES
 - Sistema de RRHH para el directorio de personal ¿incluye Filiales?
