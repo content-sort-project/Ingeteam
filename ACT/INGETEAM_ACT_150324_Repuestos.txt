@@ -1,0 +1,100 @@
+ACTA REUNIÓN
+- Eduardo Cordovín: eduardo.cordovin@ingeteam.com - Repuestos (Comercial)
+- Vanesa Martínez García: vanesa.martinez.g@ingeteam.com - Reparaciones (no comercial)
+- Jessica Hernández: jessica.hernandez@ingeteam.com - 
+
+Repuestos.
+JCJ hace introducción CRM para FV.  FV: Venta de equipos, proyectos y repuestos.
+
+Venta de repuestos - Uso crm, qué espera...
+Repuestos lo lleva más Marta Jordana.
+
+Se añade a Marta en AS-R
+Revisamos los grupos AP, AS-R y AS-S
+************
+AS-S: 
+- Altas de nuevas cuentas: cuando hacen un pedido. Pueden vender a cualquier que les llame; cualquier cosa.
+- Actividades comerciales (llamadas reactivas): hacen presupuesto de repuestos (ofertas con email). Es fácil; mira la tarifa y ya está. Si es de más entidad lo desvía al KAM. Si el cliente dice OK, se lo reenvía a Marta para que prepare el pedido. Marta da de alta en SAP, y el pedido (en estado "bloqueado"). Emite factura proforma y espera el pago del cliente. El cliente envía justificante de pago por email. Entonces da la orden a Paneles a través de SAP y libera el pedido de paneles (porque está pagado OK). En Paneles revisan los pedidos diarios a través de un listado, para ver cuáles están liberados.
+
+Reunión semanal de repuestos con Paneles para revisar los pedidos en curso y cómo va. Es necesario hacer un seguimiento de los pedidos ya que a veces el material no está preparado en más de una semana.
+
+Existen 8 o 10 clientes que se les permite pagar a posteriori. Y puede existir alguna orden excepcional.
+
+Filiales no pagan por adelantado. Tienen una tarifa inter-company (precios menores), y los pedidos están desbloqueados por adelantado. Hacen el pedido directamente a Marta.
+
+Limpieza anual de pedidos bloqueados.
+
+- Ofertas de repuestos - A veces los KAM solicitan una propuesta de precios a Eduardo por email, con precio final cliente.
+- Incidencias Técnicas: por tlf y email. Sólo consultas técnicas para identificar el código de un producto. Si Eduardo identifica una incidencia o un tema de garantía, los pasa al SAT.
+
+
+Repuestos: en SAP ya tenemos un listado de Repuestos. Excel con los repuestos, identificando qué respuesta va para cada versión de equipo. Primero resuelve a través de documentación de I+D. Pide información a I+D (qué componentes va en determinado equipo) y a Paneles (los que llevan repuestos, temas de plazos y materiales en fábrica, y con Javier Ramírez algunos temas adicionales).
+Ofertas las guardo en el servidor comercial fotovoltaica, ordenado por carpetas.
+
+PostVenta:
+- Repuestos
+- Reparaciones en fábrica y SAT telefónico (Alejandra, Manuel y Javier Ramírez en Central, Edgar en Méjico, Italia)
+- Asistencia en campo - 
+
+****************
+AS-R: 
+- Solicitudes de nuevas cuentas (Vanesa)
+Pagan por adelantado, pero no se abre cuenta en SAP hasta que no pagan. Crea un pedido de venta. De forma acumulada se genera mensualmente un pedido de compra a paneles (pedidos abiertos).
+- Marta lleva reparaciones de las filiales e Ingeteam Service (es como una filial; sede en Albacete; contratos de operación y mantenimiento-incidencias). IPT FV factura a la filial, y ésta al cliente.
+
+Cuando el coste de reparación es muy elevado, implica una sustitución (campaña "plan renove"). En el documento de oferta "oferta de sustitución". Se envía un email al cliente ofreciendo la posibilidad de equipo completo, con su garantía, y el pedido para firmar. Es un documento plantilla, donde se incluye el equipo, su precio de sustitución. Esta plantilla y el precio lo da Comercial. Procedimiento y precios sustitución: Jesús Asién.
+Cuando el cliente envía el pedido cumplimentado con sus datos de cliente y firmado, se lo reenvía a Jessica Hernández. A partir de aquí es como una venta normal.
+
+((Identificamos al Company Chain Value nº23: persona física))
+ 
+Retrofit (Eduardo): decisión de cambiar todos los equipos afectados por una incidencia (no se cobra al cliente). Mantenimiento preventivo en base a una experiencia. Pueden ser equipos en cliente o en fábrica.
+
+Peticiones comerciales asociadas a reparaciones; reclamaciones. Se abre en Calitel (reclamaciones de clientes, no conformidades detectadas internamente, reclamaciones a proveedores). Una vez al mes con I+D se revisan las reclamaciones. Si hay conclusiones se traslada a Comercial. Esto genera una actividad comercial: comunicaciones, descuentos, retrofit.
+
+****************
+AP:
+Jessica Hernández - Pedidos de baja potencia y cargadores de vehículos eléctricos. Lite, 1 play, 3 play, UPS y VE
+Cristina Egurza - Pedidos de equipos de mayor potencia - Power, PowerMax, y powerStation
+- Introducir o modificar valores de venta.
+Ellas meten el pedido en SAP. 
+Comercial me pasa un pedido del cliente, o directamente de un cliente por email (alguna vez por fax). Pedido con el formato del cliente. Un PDF formal (con o sin firma). Entonces genero el código del equipo solicitándoselo a Comercial (código 25). O lo hace J con una Excel-Configurador (que está en el servidor) de codificación. Una vez con el código 25, lo introduzco en otra pestaña de la Excel, y te da la lista de materiales (partes constitutivas).
+La hoja Excel tiene un alto riesgo de cometer equivocaciones con los códigos.
+Si el pedido ya lo he creado anteriormente, puedo reutilizar el código de parte constitutiva.
+En SAP crea el pedido (si el cliente no existe, lo da de alta).
+
+ALTA DE UN CLIENTE
+Nombre, CIF, dirección facturación, forma de pago (por defecto por adelantado). No obligatorio: teléfono e email (pero se introducen siempre)
+Los datos de contacto los tiene SAT, y se delega en ellos la actualización.
+
+IFV1 incluye:
+Según dirección de facturación (Canal)
+- 01 Nacional
+- 02 Internacional
+- 03 Filiales
+(Sector) - 
+- 08 Equipos
+- 12 VE
+- 20 Reparaciones
+- 21 Repuestos
+- 40 Repuestos para fabricación
+Esto es lo primero (ver hojas)
+
+IES comparten CIF. Lo que cambia es la Dirección de Entrega.
+
+Cabecera de pedido: dirección de facturación, destinatario mercancías, número de pedido del cliente (el que aparece en su formato, o fecha del email), fecha pedido(la del día, manual).
+Materiales líneas del pedido: código material parte constitutiva (106.5xx.yyy), unidades, precio de venta (manual).
+Lo guardamos, y se genera un número 200xxxx (Pedido de ventas). 
+Ahora el pedido de compras: Número de ventas (200), Proveedor Paneles, org.de compras, entonces las líneas de pedido. Igual: código+unidades+coste manual, plazo. Los costes y plazo se deben calcular siguiendo unos criterios que están en manuales personales. Guardo, y me da otro número ( un 45000xxxxx). En función de la forma de pago se libera el pedido.
+
+((4 sectores de actividad: FV, EV, Eólico (sólo UPSs), Termosolar (Controlador local-LOC) ))
+
+
+Hay que tener una reunión con Cristina.
+¿Cómo van los envíos al extranjero?
+
+
+=> Vanesa nos pasará el manual para el cálculo de costes que utiliza cada una.
+
+Mañana miércoles nos sentaremos con Vanesa un pedido de reparación, 11:30, con Jessica, 12:00, y con Marta (repuestos) 12:30.
+
+Con Cristina puede haber pedidos sin firma del cliente. 

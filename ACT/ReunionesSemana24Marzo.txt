@@ -1,0 +1,14 @@
+TEMAS A TRATAR PRÓXIMA SEMANA:
+- Seguir con la revisión de los Grupos de Usuarios, y finalizar capítulo 5 del DA
+- Revisar capítulos 2, 3 y 4 del DA
+REUNIONES con JCJ convocando a:
+M- Carlos Martínez (Admin.Financiera) y Cristina Egurza (Admin.Pedidos FV) (SAP): Uso del CRM, qué esperan. Productos en SAP (Jerarquía, precios, ...). - Divisas (email)
+X- Iván Guzmán: temas técnicos CRM (incluyendo temas de seguridad) - Preguntar de dónde sacar esta información desde el CRM. - Directorio?
+- JCJ: conseguir documento "Perfil de puesto" (RRHH) para rellenar Grupos de Usuario
+- Itziar Urbiola: Descripción perfiles de puestos (RRHH)
+M- Eduardo Cordovín: Venta de repuestos - Uso crm, qué espera...
+M- Jessica Hernández
+X- Toma de datos con Jessica, Vanesa y Marta
+Se POSPONE- Cristina Medrano: Plan Maestro de Producción (PMP) – Cómo lleva a cabo el cálculo de plazos para las ofertas, qué datos necesita.
+
+==>> JCJ nos ha enviado el directorio de personal de FV y perfiles

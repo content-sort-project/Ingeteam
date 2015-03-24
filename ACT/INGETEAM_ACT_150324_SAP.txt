@@ -1,0 +1,119 @@
+ACTA REUNIÓN
+Carlos Martínez - carlos.martinez@ingeteam.com
+
+No existe ningún tipo de documentación de lo que hay en SAP a nivel técnico.
+
+Materiales:
+No tienen ninguna jerarquía entre sí, ni relaciones entre sí de ningún tipo.
+Existe un código que lo genera SAP
+1º Tipología: 
+Materia prima MP
+Producto en curso PC
+Producto terminado PT: vendible. Producto Producido por Paneles (fábrica) (PPP). Aunque existen algunos PT que deberían ser PC (no lo son ya que quieren tener un código suyo).
+
+
+Somos una comercializadora de la planta. Entonces manejamos el punto de vista de la Planta.
+
+2º Familia ("Grupos de artículos" en SAP): Definidas por I+D. Hay más de 200. Definen la naturaleza del material. Pertenece a MP.
+Solo las MP pertenecen a una familia. PC y PT pertenecen a una única familia: "Parte constitutiva".
+No hacen ninguna referencia a las Familias del catálogo.
+
+3º Descripción: de 40 cc, y es libre. Aquí se introduce el Código25 para los PTs, exclusivamente. Empieza por el código, pero algunas veces se añade al final alguna observación. Esto genera una dificultad a la hora de identificar el código.
+
+4º Unidad de medida (UM): unidades (UN) / metros / litros, y todas las que vienen en SAP + las personalizadas.
+
+5º Código SAP: 9 dígitos numéricos separados por . en los millares
+Ahora el material se procesa, y SAP devuelve un código de una serie numérica para MP y PC.
+Para PT se le debe asignar, además, un CÓDIGO que no es una serie numérica, sino alfanumérico. Manual. Surge de "IDI Normas". De este manual de normas solo nos interesa la codificación de producto que sale de ellas.
+Todos los materiales empiezan por 106.xxx.yyy, excepto las partes constitutivas. (106 identifica a "IPT Energy Fábrica de paneles").
+Los PTs comienzan por 106.5xx.yyy, excepto los productos base o partes constitutivas. Y se introducen a mano a partir del configurador.
+Productos base o Partes constitutivas: 3 caracteres y 4 números (procede del IDI Normas). Este es el Código I+D.
+
+
+: CODIGO ANTIGUO. Texto libre de 10 o 12 cc. Sólo para los PTs. Se escribe a mano el código de producto de IDI. Es el código I+D. En el caso de las partes constitutivas estaría repetido en el código SAP.
+
+Esto es común a todas las organizaciones del grupo.
+
+6º Descripción comercial. Solo para los códigos 25 (o los que puedan entrar en venta, como repuestos)
+
+____________________________
+
+CODIGO 25
+Se llama "25" porque la primera vez que se utilizó tenía 25 cc. Definen un PT
+
+El producto de FV es altamente configurable a partir de un producto base.
+I+D determinó que hay una serie de características que definen un producto final. Han diseñado un configurador (Excel) con el que definen todas las Ccs.
+Código SAP 106.5xx.yyy
+
+____________________________
+
+Los repuestos que se venden pueden pertenecer a cualquier tipología.
+
+____________________________
+
+Carlos está haciendo la relación entre Familias del Catálogo y las familias SAP y los códigos 25 de producto en SAP(Descripción).
+___________________________
+
+JC comenta que debe añadirse una familia adicional "Repuestos" al catálogo.
+
+___________________________
+SERVICIOS en SAP
+108.xxx.yyy - Es un código ficticio que van a ir reutilizando según la necesidad de cada momento.
+Convendría establecer algún tipo de disciplina para ordenar su utilización a la hora de hacer pedidos, que luego genera una factura.
+
+
+___________________________
+COSTES en SAP
+Tipología: 
+Materia prima MP
+Producto en curso PC
+Producto terminado PT
+____ PC y PT están pensados para asignarles un BOM (una lista), ya que se van a producir. Se valoran a Coste Estándar. (STD)
+Las MP se valoran al Precio Medio Ponderado (PMP)
+
+Para la valoración incluye la tipología y el Centro (Centro logístico).
+2 centros:
+- Paneles (Planta de producción)- STD y PMP (referencia a la compra a Proveedor - precio medio de compra)
+- Energy (Comercializadora)		- PMP (referencia a la compra a Planta) - Aunque aquí no existe stock.
+
+PMP - en función del stock, histórico y compra a un precio x unidades.
+STD - en base a una previsión, y de la realidad. Cuánto nos cuesta a día de hoy para todo el año. Coste de materia prima + mano de obra + indirectos. A partir de ese momento todas las producciones se basan en el STD. Este coste STD no es admisible a nivel contable, por lo que al final hay que hacer unos ajustes a la realidad.
+
+Material tiene una valoración en función del centro.
+
+=>> Todos esos precios deberíamos elaborar una tabla de forma que por Código SAP el CRM pudiera establecerlos. 
+Esta tabla se podrá actualizar de forma automática. Lo más adecuado sería que SAP actualizase esa tabla.
+Se convocará una reunión monográfica para establecer las fórmulas y criterios de actualización de esta Tabla de precios para el CRM. JV, JLG, Jose Mari Arratibel , Carlos M y JCJ.
+
+_________________________
+
+CLIENTES en SAP
+El maestro de Clientes es global a todas las empresas. Con datos comunes a todos, y algunos específicos para el plazo y vía de pago.
+Alta de un cliente en SAP se seguirá haciendo como hasta ahora, directamente en SAP. El identificar único es el NIF.  A nivel internacional siempre hay un código que te identifica como sujeto pasivo.
+
+En la BD1 utilizaremos el NIF como identificador unívoco entre SAP y el CRM.
+Hay que ver qué hacemos con los diferentes centros de decisión que puedan tener un mismo NIF.
+
+_______________________
+
+IFV1 - Centro logístico de SAP - Aparecen los clientes finales o filiales. Si en SAP no tiene NIF, son códigos incorrectos que hay que ignorar, o bien destinatarios de mercancía.
+Dos tipos de Empresas:
+- Clientes - Este es el que aparece en Factura, por lo que es obligatorio el NIF. (Código SAP empieza por 1)
+- Destinatarios de mercancía (empiezan por 3)
+Se distinguen por su código SAP.
+
+Preparar una Excel con los campos que pueden interesar en el CRM, y enviársela a Carlos M.
+Interesan todos los clientes históricos. IPG para revisar todos.
+
+________________________
+
+ACTA: se revisa y actualiza el grupo de M.Financiero.
+Carlos: necesito una estimación de ventas por Serie / Modelo (Unidades, precio/Ud, total)
+
+
+
+
+
+
+
+

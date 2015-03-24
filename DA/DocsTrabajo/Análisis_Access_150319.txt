@@ -22,7 +22,7 @@ BD6* - News - ISO-  Países + Global(World): con info de mercado y de empresas.
 
 BD7* - Actividades comerciales
 
-BD9 - Incidencias, nºExpediente para el Dpto.Claims y para el Comercial. Se podía enviar un PDF al cliente con el nº de incidencia
+BD9 - Incidencias, nºExpediente para el Dpto.Claims y para el Comercial. Se podía enviar un PDF al cliente con el nº de incidencia. ¿Integrar Access?
 
 BD11 - Actividades/Acciones con Clientes + Comentarios de Empresas
 
@@ -97,12 +97,13 @@ FUNCIONES CRM IPT:
 PROX.ACCION
 Miércoles: 
 - Cap5 + Rev 1-4
+
 - Actualizar índice - CS
 - Documentar BDs en cap8 EFS - CS
-- Actualizar C1.3 EFS - CS
 - BD(Regiones): Europe, LATAM, North-America, Africa, Middle-East, Asia, Oceania - ¿Quién asocia países a regiones? - CS estándar
 - BD(Países) - ISO-  2 y 3 - CS estándar
-- Enviar a JC Grupos de Usuarios
+- Enviar a JC doc Grupos de Usuarios actualizado
+- JC revisará capítulo 1 del DA.
 
 
 Martes:
@@ -111,9 +112,8 @@ Martes:
 - Pedir acceso WIFI a Iván Guzmán (email cc a JVV) - CS
 
 PROX.SEMANA
-- BD9 - Gestión Incidencias I+D (Access?) 
 - Carlos Martínez (Admin.Financiera) y Cristina Egurza (Admin.Pedidos FV) (SAP): Uso del CRM, qué esperan. Productos en SAP (Jerarquía, precios, ...)
-- Iván: temas técnicos CRM
+- Iván: temas técnicos CRM (incluyendo temas de seguridad)
 - Descripción pefiles de puestos (RRHH) - Itziar Urbiola
 - Venta de repuestos (Eduardo Cordovín) - Uso crm, qué espera...
 - JC:  conseguir documento "Perfil de puesto"
