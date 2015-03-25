@@ -1,4 +1,4 @@
- ACTA REUNIÓN
+ACTA REUNIÓN
 - Eduardo Cordovín: eduardo.cordovin@ingeteam.com - Repuestos (Comercial)
 - Vanesa Martínez García: vanesa.martinez.g@ingeteam.com - Reparaciones (no comercial)
 - Jessica Hernández: jessica.hernandez@ingeteam.com - 
@@ -102,7 +102,7 @@ Con Cristina puede haber pedidos sin firma del cliente.
 
 *****************
 y otro grupo AS-Field
-Cuando se hace una oferta de grandes PMax y PStation van suministros de material y puesta en marcha. Ésta consta:
+Cuando se hace una oferta de grandes PMax y PStation van suministros de material y puesta en marcha (PEM). Ésta consta:
 - gestión de: 	- documentación de seguridad y salud laboral
 				- visados y pasaportes
 				- material
