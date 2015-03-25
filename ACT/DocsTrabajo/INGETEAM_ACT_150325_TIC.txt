@@ -1,0 +1,12 @@
+ACTA REUNIÓN
+Carlos Martínez - carlos.martinez@ingeteam.com
+Iván Guzmán - 
+
+No existe ningún tipo de documentación de lo que hay en SAP a nivel técnico.
+
+- Estrategia tecnológica de IPT FV (¿Microsoft con .NET, Java, PCs, portátiles, tablets, móviles, servidores, compra de licencias, SaaS?)
+- Metodologías y políticas corporativas a tener en cuenta cuando se implemente el CRM: de desarrollo, de gestión documental, manual de imagen corporativa, guía de estilos, protocolos y políticas de seguridad informática (tanto de acceso y uso, como de la información), etc.
+- Inventario de aplicaciones utilizadas en IPT FV (y posible mapa de interfaces)
+- Inventario de oficinas en el mundo (IPT FV)
+- Bases de datos corporativas (intranet)
+- Cloud vs on-premises. ¿De qué infraestructura para servidores dispone IPT? ¿y de Comunicaciones? ¿y de Seguridad? ¿Parque informático en FV (fijo y móvil)?
