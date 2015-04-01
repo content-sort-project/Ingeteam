@@ -2,11 +2,57 @@ ACTA REUNIÓN
 Carlos Martínez - carlos.martinez@ingeteam.com
 Iván Guzmán - 
 
-No existe ningún tipo de documentación de lo que hay en SAP a nivel técnico.
-
 - Estrategia tecnológica de IPT FV (¿Microsoft con .NET, Java, PCs, portátiles, tablets, móviles, servidores, compra de licencias, SaaS?)
+
+IPT Energy.
+Servidores IPT Energy tiene estructura informática en Sarriguren para proceso de datos y comunicaciones. 100% MS
+Desarrollos en .NET
+Sharepoint 2010 Fundation (migrando a 2013 en 2015)
+SQL 2008 R2 (estudiando migrar a la última versión)
+Project Server (lo usan solo en FV)
+Windows Server 2008 R2 (migrando a 2012 en 2015) - DA (cada persona utiliza un usuario local -napellido-, con el que se accede a todos estos recursos, y otro corporativo -nombre.apellido-). Hay un proyecto para crear una relación de confianza - Virtualizados con VM Ware (VSphere) - unos 60 servers vistualizados
+Licencias on premise en su mayoría. No hay una preferencia para este tema. Si se cumplen criterios LOPD a nivel de cada país, y firmado por contrato por los proveedores involucrados, y localizado en un país reconocido por su seguridad en este aspecto, no hay problema para SaaS.
+---Hasta aquí, todos los recursos son locales a Ingeteam ENERGIA.
+
+Exchange es Corporativo. 
+La propuesta de autenticación SSO será utilizar los dos DAs, uno para recursos locales, y el corporativo para Exchange.
+90% Portátiles DELL. 250 equipos. Windows 7. Office 2010 y 2007 (Outlook). 
+Filial: Ingeteam SRL (Italia) con Lotus, incluyendo el correo electrónico.
+Movilidad: 50 smartphones (60% android, 40% iPhone)
+Intranet corporativa (10%) sobre Joomla - esta la utilizaremos como repositorio para la fase de Análisis del Proyecto CRM
+Intranet de división (90%) sobre Sharepoint
+
 - Metodologías y políticas corporativas a tener en cuenta cuando se implemente el CRM: de desarrollo, de gestión documental, manual de imagen corporativa, guía de estilos, protocolos y políticas de seguridad informática (tanto de acceso y uso, como de la información), etc.
+
+>Desarrollo TI: sin metodología específica para desarrollos corporativos
+>Desarrollo de producto (en FV y EO) para cliente
+>ITIL para gestión.
+>Gestión Documental: solo para producto (Manual IDI Normas) en espacial para codificar
+>Sistemas de Calidad: para producto y resto de documentación para certificación corporativa, reclamaciones, auditorías, riesgos laborales, calidad de producto, etc. Herramienta: Calitel (Sharepoint). Conviene revisar si debe integrarse con el CRM a algún nivel.
+POLITICAS DE SEGURIDAD
+W.XP prohibido.
+Usuarios: el CRM se deberá integrar con el DA, y hacer SSO con el usuario local. 
+Local. contraseña mínimo: 6 alfanumérico con reglas de complejidad e histórico a nivel DA.
+Las aplicaciones Excel y Access no son una buena práctica que deberían convertirse en aplicaciones corporativas.
+Externos: no pueden utilizar USBs personales, envío de información personal a través de infraestucturas corporativas, no se pueden utilizar sistemas cloud no corporativos. Para acceder a información corporativa, los externos deben firmar un contrato de confidencialidad y protección de datos personales.
+
+
 - Inventario de aplicaciones utilizadas en IPT FV (y posible mapa de interfaces)
-- Inventario de oficinas en el mundo (IPT FV)
+Inventarios de aplicaciones: DNA (sistema de gestión de activos informáticos) que se cruza con el inventario de licencias.
+Sobre las aplicadiones Excel/Access no hay ningún inventario en TI.
+>>> Iván nos enviará la lista de aplicaciones normalizadas (Desktop, División/Energy, Corporativa), indicando en qué DA se autentican.
+
+- Inventario de oficinas en el mundo (IPT-FV)
+JCJ nos pasará la lista de oficinas, e Iván lo complementará indicando infraestucturas básicas relacionadas con gestión comercial.
+
 - Bases de datos corporativas (intranet)
-- Cloud vs on-premises. ¿De qué infraestructura para servidores dispone IPT? ¿y de Comunicaciones? ¿y de Seguridad? ¿Parque informático en FV (fijo y móvil)?
+Corporativo: 
+- Directorio de contacto de empleados (DA corporativo).
+- Sistema de nómina (Murano) Quién es quién 
+- SAP
+- BI Hyperion (Financiero)
+
+
+
+
+
