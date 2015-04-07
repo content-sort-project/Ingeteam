@@ -1,0 +1,33 @@
+TEMAS A TRATAR PRÓXIMA SEMANA:
+- Seguir con la revisión de los Grupos de Usuarios, y finalizar capítulo 5 del DA
+- Revisar capítulos 2, 3 y 4 del DA
+
+
+TB Activity Sector [Sector]
+
+Ingeteam considera un lead a todas las empresas en la BD que CompImp sea "0 To be def".
+
+Commercial Importance for IPT 
+0.	To be Defined  (este es el valor que identificará los LEADs)
+1.	A
+2.	B
+3.	C
+4.	None
+
+Ingeteam considera que es una Op.Comer si se cataloga como ABC.
+
+Dado un LEAD, el KAM identifica si es A,B,C o None.
+Si es A,B,C => entonces es un Oportunidad Comercial.
+
+Si None, se acaba el proceso de venta (ya no es Lead).
+
+Conclusión: no hay BD4
+
+
+
+
+_____________
+Se POSPONE para la semana del 13 de abril:
+- Terminar la Toma de datos con Marta Jordana
+- Toma de datos con Jessica Hernández
+- Cristina Medrano: Plan Maestro de Producción (PMP) – Cómo lleva a cabo el cálculo de plazos para las ofertas, qué datos necesita.
