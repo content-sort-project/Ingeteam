@@ -1,0 +1,25 @@
+- Establecimiento de costes (límites de los precios)
+- Gestión de Leads y Oportunidades
+
+- Flujo de Ventas
+Solicitud Ofertas (Cliente)
+Gestión de la oferta
+	Elaboración/Modificación de una oferta
+		Ayuda técnica
+		Costes de componentes (ej. no existe Cod.25 en SAP)
+		Requerimientos legales
+		Crédito
+		Plazos
+		Logística (ej. costes de transporte)
+		Precio especial (< límite)
+Enviar Oferta al Cliente
+	<> Cliente hace pedido (Procesar pedido)
+	<> Cliente solicita modificación (atrás a Gestión)
+	<> Cliente rechaza (análisis de oferta perdida)
+Procesar pedido en SAP (validando ciertas condiciones para que el pedido esté OK)
+	Order confirmation (se envía al Cliente)
+Proyecto
+	<> Dirección Proyecto
+	<> Puesta en marcha
+	<> Sólo entrega de producto
+Garantía
