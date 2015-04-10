@@ -1,0 +1,29 @@
+- Establecimiento de costes (límites de los precios) -> VTA.10
+ lo hace jlp, sobre icp-pcp-bep
+
+- Gestión de Leads y Oportunidades -> VTA.20
+ falta chicha.cuando lead es catalogado como a,b,c pasar a ser oportunidad.
+leads son empresas de la
+
+- Flujo de Ventas -> VTA.30
+Solicitud Ofertas (Cliente) - Iniciador
+Gestión de la oferta 
+Elaboración/Modificación de una oferta
+		Ayuda técnica
+		Costes de componentes (ej. no existe Cod.25 en SAP)
+		Requerimientos legales
+		Crédito
+		Plazos
+		Logística (ej. costes de transporte)
+		Precio especial (< límite)
+Enviar Oferta al Cliente 
+	<> Cliente hace pedido (Procesar pedido)
+	<> Cliente solicita modificación (atrás a Gestión)
+	<> Cliente rechaza (análisis de oferta perdida)
+Procesar pedido en SAP (validando ciertas condiciones para que el pedido esté OK) 
+	Order confirmation (se envía al Cliente)+informar a KAM de confirmacion
+Proyecto -> VTA.40
+	<> Dirección Proyecto PRY.010
+	<> Puesta en marchaPRY.020
+	<> Sólo entrega de producto PRY.030
+Garantía -> VTA.50
