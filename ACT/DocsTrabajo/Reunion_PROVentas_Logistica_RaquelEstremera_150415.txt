@@ -1,0 +1,45 @@
+15/4/2015 con JL
+Raquel Estremera
+Dpto. de Operaciones - Logística
+Gestión de Logística
+Tiempos de tránsito según el incoterm, y el coste del transporte. 
+También diseñan la operativa.
+
+Solicitudes de cotización a través de la web de expediciones. Una aplicación interna (en SAP no existe módulo logística).
+También se puede solicitar transportes concretos (expediciones) y consultar históricos.
+¿Integración?
+
+Solicitante: todos los empleados de Energy y de Paneles
+Origen y destino: (población-texto- y país-desplegable-)
+Incoterm (11 valores, + nacionales pagados y debidos)
+Tipo de envío: Terrestre, aéreo, marítimo
+Tipo de contenedor (Grupaje, Camión...)
+Obs
+Bultos...
+
+La web envía un email con un resumen, y para ver todos los datos tienen que acceder para hacer una consulta.
+Modifica la solicitud, pone fecha, presupuestos de hasta 3 transportistas (convertido a euros con el cambio del día), frecuencias, días de tránsito, y observaciones. Guarda, y de forma autiomática le llega un email al solicitante.
+Para la integración con el CRM habría que tener en cuenta los idiomas de los emails.
+La validez de los precios es de 30 días máximo.
+
+El tiempo de respuesta estimado es de 48 horas.
+
+Histórico de expediciones: cuando se contrata una expedición se registran todos los datos reales de la misma: referencias, tránsito real, etc.
+
+Iván Guzmán (Eduardo Díez es el programador) - ¿Sharepoint?
+____________________
+
+Pedidos. 
+UE: la solicitud la hace paneles.
+Internacional: Backoffice (vanesa marta cristina, jessica) hace la solicitud de transporte.
+
+Llega el email, y contratan el mejor transporte. Pero no hay una relación directa en la aplicación web. Aunque puden transformar una solicitud pendiente en una expedición.
+Aunque les vendría bien una planificación con tiempo ya que es bueno cerrar un precio con tiempo permite negociar mejor los precios.
+
+
+
+
+
+
+
+

@@ -1,0 +1,70 @@
+Reunión 14/4/2015
+JL
+Cristina Meldrano
+Disponibilidad de producto - Product availability of delivery time
+= Comprobar plazos entrega
+
+Se dan plazos en fábrica donde se hace la integración. Plazo de una PowerStation= tiempo de inversor + el tiempo de integración en la caseta (Powerstation).
+
+Ahora Cristina solo da el plazo de salida del inversor de paneles.
+A partir de CRM se encargaría también del plazo completo de la PowerStation.
+En cuanto los repuestos, los gestiona Eduardo Cordovín. Habría que coordinarlo con Eduardo.
+
+- Hacen solicitud, bien por email o por teléfono a Cristina.
+- Hay que saber el <<código SAP (hay aprox. 3500 referencias a día de hoy) de todos los productos (incluyendo el código SAP de la PowerStation)
+Para planificar los equipos tenemos en grupos, da un plazo estándar del equipo. 
+Qué aspectos afectan al plazo: 
+> Kits: afectan realmente; si no se sabe el kit exacto puede no cumplirse los plazos.
+Lo mejor es que esté el código SAP. 
+
+El comercial podrá solicitar c+plazo cuando tenga todos los códigos SAP.
+
+- El comercial introduce el <<Plazo Deseado (incluyendo la posible integración). Con eso se prioriza y planificas los plazos.
+Plan de entrega deseado:
+- Fecha de inicio*
+- Nº entregas semanales
+- Nº equipos por entrega (si nº entregas>1)
+- Comentarios
+CAMPOS AUTO de la BD5
+- Probabilidad de que entre el pedido* (AUTO desde la BD5); necesario par la priorización)
+- Lista de materiales con códigos SAP (AUTO de la Oferta)
+- Decision date
+- Ordering date
+
+Entonces Cristina saca el informe de Previsiones del CRM, y con la planificación de paneles (Hoja Excel con el plan maestro de producción + info de SAP, como el stock de seguridad).
+
+Si tiene dudas de cuándo llegan ciertos materiales, habla con paneles, email/tlf (Juan Hernández), o materiales por debajo de su plazo estándar.
+
+- Una vez a la semana envía el PMP actualizado.
+- Una reunión mensual de planificación conjunta.
+
+- El PMP vigente conviene que esté publicado y accesible en el CRM por parte de los Comerciales. Y al actualizarlo se puede informar/reenviar (por email a la lista de distribución de Juan Carlos Jadraque) la nueva versión a los que estén interesados en ser alertados.
+
+
+RESPUESTA
+
+Posibilidad de consultar la Oferta.
+
+
+
+
+
+
+Los plazos deben quedar muy claros que son ex-works (ver DB5-Ofertas)
+
+Respuesta de Cristina: se da el "plazo desde pedido".
+
+Luego Cristina necesita de un informe de "Previsiones" semanal, para su revisión y posibles cambios en los plazos ya facilitados.
+
+Si luego el comercial cambia 
+- Probabilidad
+- Fecha 
+
+
+
+NOTA: en el proceso falta "dar de alta código SAP".
+Se actualiza la BD5.
+
+
+
+

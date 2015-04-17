@@ -1,0 +1,12 @@
+Jesús Asiáin
+KAM
+
+Se da de alta la Oferta en SAP.
+- va21
+
+Cliente en SAP => da un número de REF. Pero la base de ofertas se queda muerta. Se hace por cumplir el protocolo.
+
+Para las revisiones, se reutiliza el mismo número, añadiéndole un guión bajo y una letra.
+
+Razón social: depende de la filial que elabora la oferta. 
+El KAM se sitúa donde el cliente tenga el centro de decisión.
