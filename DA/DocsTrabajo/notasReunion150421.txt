@@ -1,0 +1,62 @@
+cap 4: 
+	* Poner nombre a apartado intro a KPIs
+	* La tabla es un informe, y hay KPIs en la tabla 
+	  que se moverán a otro informe. 
+	* Numerar los KPIs
+	* Trasladar tabla a Excel
+cap 5: 
+	* Una tabla por hoja (primera pestaña por ejemplo
+	  están 3 juntos, hay que separarlos)
+cap 6: 	* Programacion y gestion de la actividad comercial
+		+ Ejemplo: JLP en una reunion con un cliente, tendra una
+		serie de tareas que el luego tendra que repartir a sus KAM
+		+ no es un proceso como tal sino una funcionalidad del CRM
+		+ renombrado
+	
+	* Comunicacion ..... 
+		+ tablón de anuncios 
+		+ pasa a ser una funcionalidad (post. mover a cap 11 decision) ) +> mover a Cap 11; 
+		+ Se enumeran a continuacion los tipos de anuncios
+			- Productos en oferta
+			- Stock
+			- Lanzamiento de nuevos productos
+			- enlaces, documentación
+	* (VTA.030)
+		+ fin de proceso -> es una actividad y no un nodo, luego finaliza
+		+ que todas las pantallas tengan una ayuda contextual
+		+ que aparezca un pop up al solicitar ayuda que pregunte a la persona
+	  	para ver si las otras tareas han sido acabadas pues pueden
+	  	haber tareas en paralelo que dependan entre ellas
+	 	+que los textos tengan una ayuda en relación al idioma
+	
+	Establecimiento de precios en ofertas + Politica de precios. (PCP1/2/3)
+	* tarea automática +> cuando se dé de alta en SAP, se establece auto 
+	* requiere jerarquía de productos no solo para CRM sino para SAP también.
+	* las series no estarán como tal sino agrupadas.
+	* habrá una reunión entre ellos para definir las jerarquías y el apartado este, y luego nos avisarán pa reunirnos y hablarlo.
+
+
+Programación y gestión de la actividad comercial
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------
+Cap 11:
+Bandeja de tareas + Vistas
+	* Next time to be contacted
+	* Tareas
+---------------------------------------------------------------------
+VTA.030
+	* La primera que se genera oferta tiene un parrafo que especifica que no es vinculante.
+	* Razones por las cuales back office rechaza/devuelve el pedido al vendedor
+		+ 
+		+ 
+		+ 
+VTA.040
+	* proyect
