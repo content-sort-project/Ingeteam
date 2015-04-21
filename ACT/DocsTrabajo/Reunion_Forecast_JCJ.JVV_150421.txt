@@ -1,0 +1,35 @@
+JCJ, JVV, JLP
+MARKET STRATEGY DATA SHEET
+Ficha de estrategia de mercado actualizada y visible para todos. El responsable de la Filial es el que la debe tener actualizada.
+Tabla: (va a marcar el qué queremos hacer y posicionarnos y cómo, en ese mercado, con esa filial)
+- PAIS
+- Responsable ficha
+Columnas: 
+- Utility (>10MW PowerMax)
+- Comercial/Industrial (cubiertas, <1MW, >10KW - 3 Play normalt)
+- Residencial (1 play <10kW)
+- Storage
+Filas:
+- potencia instalada en ese mercado en los los últimos 
+- Forecast mercado (anual): 2015/16/17  - 50MW/100/100
+- Forecast IPT: igual
+- Company priority: High/Med/Low
+- Competitors: quiénes están (seleccionables de la BD1, quizás; no importante ahora en fase 1)
+- Portfolio Witnesses - nuestras deficiencias, qué falta para atacar el mercado
+- Sales Channels - por distribución, directa, online
+- Customers # - número entero. De aquí puede deriviar el número de visitas.
+- Stock - tipo - ejemplo: 2 unidades de los grandes, y  2 pallets de los medianos, y x pequeños. En la actualidad.
+- Price - Cómo estamos en precio
+- Strategy - Dónde queremos estar: "uno de los 2 primeros players" "que mi producto sea el más caro". Mi imagen.
+- Action Plan - Acciones concretas para llegar a eso. Publicidad, Ferias, Sacar un certificado, política de precios....
+
+Ejemplo:
+CHILE
+
+BD13 Strategy & Forecast.
+
+¿Periodicidad para su revisión? Que el CRM pida ir actualizando ciertos datos. 
+Que en el Dashboard haya un botón para acceso directo.
+Interesante que se pueda contrastar con datos reales del año pasado.
+Y de aquí sacar informes de grado de cumplimiento.
+
