@@ -5,3 +5,5 @@
 * INGECON SUN catalogue 2015
 * Catalogo INGEREV_ES.pdf -> 1.2 (NO SE USO, SE USO http://www.ingeteam.com/es-es/electronica-de-potencia/recarga-de-vehiculos-electricos/c28_7_p/productos.aspx)
 * IPT_ACRM_borrador_CriteriosClientes_150311.docx -> 1.3
+
+Documento de Requerimietnos y especificación para el desarrollo e implementación de una solución CRM (DRE)
