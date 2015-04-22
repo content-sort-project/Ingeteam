@@ -16,7 +16,6 @@
     <data key="d0"/>
     <node id="n0" yfiles.foldertype="group">
       <data key="d4"/>
-      <data key="d5"/>
       <data key="d6">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
@@ -45,7 +44,6 @@
       </data>
       <graph edgedefault="directed" id="n0:">
         <node id="n0::n0">
-          <data key="d5"/>
           <data key="d6">
             <y:GenericNode configuration="com.yworks.flowchart.preparation">
               <y:Geometry height="66.0" width="134.0" x="383.0" y="104.0"/>
@@ -63,7 +61,6 @@
           </data>
         </node>
         <node id="n0::n1">
-          <data key="d5"/>
           <data key="d6">
             <y:GenericNode configuration="com.yworks.flowchart.document">
               <y:Geometry height="66.0" width="134.0" x="383.0" y="8.0"/>
@@ -82,7 +79,6 @@ Nuevos 2015
           </data>
         </node>
         <node id="n0::n2">
-          <data key="d5"/>
           <data key="d6">
             <y:GenericNode configuration="com.yworks.flowchart.decision">
               <y:Geometry height="122.0" width="134.0" x="553.0" y="76.0"/>
@@ -100,7 +96,6 @@ en la Excel?<y:LabelModel>
           </data>
         </node>
         <node id="n0::n3">
-          <data key="d5"/>
           <data key="d6">
             <y:GenericNode configuration="com.yworks.flowchart.preparation">
               <y:Geometry height="66.0" width="134.0" x="553.0" y="281.25"/>
@@ -119,7 +114,6 @@ en SAP
           </data>
         </node>
         <node id="n0::n4">
-          <data key="d5"/>
           <data key="d6">
             <y:GenericNode configuration="com.yworks.flowchart.decision">
               <y:Geometry height="122.0" width="134.0" x="717.0" y="76.0"/>
@@ -137,7 +131,6 @@ coste?<y:LabelModel>
           </data>
         </node>
         <node id="n0::n5">
-          <data key="d5"/>
           <data key="d6">
             <y:GenericNode configuration="com.yworks.flowchart.preparation">
               <y:Geometry height="66.0" width="134.0" x="881.0" y="104.0"/>
@@ -156,7 +149,6 @@ a Paneles
           </data>
         </node>
         <node id="n0::n6">
-          <data key="d5"/>
           <data key="d6">
             <y:GenericNode configuration="com.yworks.flowchart.preparation">
               <y:Geometry height="66.0" width="134.0" x="717.0" y="281.25"/>
@@ -175,7 +167,6 @@ Word con Precios
           </data>
         </node>
         <node id="n0::n7">
-          <data key="d5"/>
           <data key="d6">
             <y:GenericNode configuration="com.yworks.flowchart.document">
               <y:Geometry height="66.0" width="134.0" x="717.0" y="387.0"/>
@@ -196,7 +187,6 @@ Word con Precios
     </node>
     <node id="n1" yfiles.foldertype="group">
       <data key="d4"/>
-      <data key="d5"/>
       <data key="d6">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
@@ -225,7 +215,6 @@ Word con Precios
       </data>
       <graph edgedefault="directed" id="n1:">
         <node id="n1::n0">
-          <data key="d5"/>
           <data key="d6">
             <y:GenericNode configuration="com.yworks.flowchart.preparation">
               <y:Geometry height="66.0" width="134.0" x="1073.0" y="104.0"/>
@@ -244,7 +233,6 @@ solicitud  de costes
           </data>
         </node>
         <node id="n1::n1">
-          <data key="d5"/>
           <data key="d6">
             <y:GenericNode configuration="com.yworks.flowchart.preparation">
               <y:Geometry height="66.0" width="134.0" x="1073.0" y="192.625"/>
@@ -263,7 +251,6 @@ familia de producto
           </data>
         </node>
         <node id="n1::n2">
-          <data key="d5"/>
           <data key="d6">
             <y:GenericNode configuration="com.yworks.flowchart.preparation">
               <y:Geometry height="66.0" width="134.0" x="1073.0" y="281.25"/>
@@ -285,7 +272,6 @@ destinatario
     </node>
     <node id="n2" yfiles.foldertype="group">
       <data key="d4"/>
-      <data key="d5"/>
       <data key="d6">
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
@@ -314,7 +300,6 @@ destinatario
       </data>
       <graph edgedefault="directed" id="n2:">
         <node id="n2::n0">
-          <data key="d5"/>
           <data key="d6">
             <y:GenericNode configuration="com.yworks.flowchart.preparation">
               <y:Geometry height="66.0" width="134.0" x="186.75" y="-3.0"/>
@@ -333,7 +318,6 @@ la solicitud
           </data>
         </node>
         <node id="n2::n1">
-          <data key="d5"/>
           <data key="d6">
             <y:GenericNode configuration="com.yworks.flowchart.document">
               <y:Geometry height="66.0" width="134.0" x="186.75" y="104.0"/>
@@ -354,7 +338,6 @@ Nuevos 2015
       </graph>
     </node>
     <node id="n3">
-      <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.bpmn.Event.withShadow">
           <y:Geometry height="53.039999999999964" width="49.96800000000002" x="759.016" y="483.0"/>
@@ -368,8 +351,8 @@ Nuevos 2015
             </y:ModelParameter>
           </y:NodeLabel>
           <y:StyleProperties>
-            <y:Property class="com.yworks.yfiles.bpmn.view.EventCharEnum" name="com.yworks.bpmn.characteristic" value="EVENT_CHARACTERISTIC_INTERMEDIATE_CATCHING"/>
             <y:Property class="java.awt.Color" name="com.yworks.bpmn.icon.line.color" value="#000000"/>
+            <y:Property class="com.yworks.yfiles.bpmn.view.EventCharEnum" name="com.yworks.bpmn.characteristic" value="EVENT_CHARACTERISTIC_INTERMEDIATE_CATCHING"/>
             <y:Property class="java.awt.Color" name="com.yworks.bpmn.icon.fill2" value="#d4d4d4cc"/>
             <y:Property class="java.awt.Color" name="com.yworks.bpmn.icon.fill" value="#ffffffe6"/>
             <y:Property class="com.yworks.yfiles.bpmn.view.BPMNTypeEnum" name="com.yworks.bpmn.type" value="EVENT_TYPE_PLAIN"/>
@@ -378,7 +361,6 @@ Nuevos 2015
       </data>
     </node>
     <edge id="n0::e0" source="n0::n1" target="n0::n0">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -389,7 +371,6 @@ Nuevos 2015
       </data>
     </edge>
     <edge id="n0::e1" source="n0::n2" target="n0::n3">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -408,7 +389,6 @@ Nuevos 2015
       </data>
     </edge>
     <edge id="n0::e2" source="n0::n0" target="n0::n2">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -419,7 +399,6 @@ Nuevos 2015
       </data>
     </edge>
     <edge id="n0::e3" source="n0::n2" target="n0::n4">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -438,7 +417,6 @@ Nuevos 2015
       </data>
     </edge>
     <edge id="n0::e4" source="n0::n4" target="n0::n5">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -457,7 +435,6 @@ Nuevos 2015
       </data>
     </edge>
     <edge id="e0" source="n0::n5" target="n1::n0">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -468,7 +445,6 @@ Nuevos 2015
       </data>
     </edge>
     <edge id="n1::e0" source="n1::n0" target="n1::n1">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -479,7 +455,6 @@ Nuevos 2015
       </data>
     </edge>
     <edge id="n1::e1" source="n1::n1" target="n1::n2">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -490,7 +465,6 @@ Nuevos 2015
       </data>
     </edge>
     <edge id="n0::e5" source="n0::n4" target="n0::n6">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -509,7 +483,6 @@ Nuevos 2015
       </data>
     </edge>
     <edge id="e1" source="n1::n2" target="n0::n6">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -520,7 +493,6 @@ Nuevos 2015
       </data>
     </edge>
     <edge id="n0::e6" source="n0::n6" target="n0::n7">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -531,7 +503,6 @@ Nuevos 2015
       </data>
     </edge>
     <edge id="n2::e0" source="n2::n0" target="n2::n1">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -542,7 +513,6 @@ Nuevos 2015
       </data>
     </edge>
     <edge id="e2" source="n2::n1" target="n0::n0">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -553,12 +523,22 @@ Nuevos 2015
       </data>
     </edge>
     <edge id="e3" source="n0::n7" target="n3">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n0::e7" source="n0::n3" target="n0::n6">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="delta"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
