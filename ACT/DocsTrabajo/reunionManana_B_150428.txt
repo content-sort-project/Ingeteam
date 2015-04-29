@@ -1,0 +1,23 @@
+start:			11.25 AM
+attendees:		JCJ, JVV, JLP
+
+observaciones:
+- a jose luis le interesa mucho el configurador del cód.25 y el buscador
+	* ¿será un bottleneck en los procesos de su departamento?
+- para hacer una oferta necesitas un precio y un cod SAP. dice jlp pero jcj le discute el punto enfáticamente
+- hay dos líneas en el workflow. 
+- a jlp le interesaría dar de alta un producto desde el crm pero a jcj y jvv les causa incertidumbre.
+- a jcj le 
+
+toma de datos:
+jlp manda una solicitud de coste a cristina 
+dos opciones
+1 - todo definido, te da el precio y da de alta en sap
+2 - lista de materiales no definida
+
+mejorar : I+D tiene que generar la lista de materiales en la excel del código 25. 
+---------------------------------------------------------------------------------------------------------------
+
+workflow solicitar crédito 
+- pedírselo a financiero
+	- con una empresa de evaluación de riesgo evalúa el solicitante de oferta

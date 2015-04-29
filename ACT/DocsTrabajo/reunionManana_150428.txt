@@ -1,0 +1,24 @@
+PENDIENTES:
+ para mi: 
+	- diagrama equipo nuevo (azul en foto costes)
+	- en el documento de la actividad, donde se dice que paneles solicita a I+D diseño de materiales, ponerlo en rojo.
+	- en el diagrama añadir bifurcación previo a que I+D diseñe la lista de materiales a ver si es fabricable 
+	- en el proceso de solicitar costes, APG e I+D se intercambian -> SCADA es I+D y PowerStation es APG
+
+	- sugerir un glosario
+	- rehaceríndice apartado workflows
+	- revisar escritura de Ingecon Sun en todos los documentos
+	- preguntar a los proveedores de CRM (salesforce, dynamics, etc...) si las notas de gastos las llevan y de que manera.
+----------------------------------------------------------------------------------------------------------------
+cristina egurza:
+1) recibe cod 25
+2) mira en la excel si están todas las partes constitutivas.
+3) cuando da de alta la lista de materiales y ve que falta algo, se lo solicita a I+D
+4) da de alta el código SAP y el código 25
+----------------------
+-----
+- cuando está el código 25 fabricado, cristina recalcula precios
+proc javier:
+- no existe el producto: dos vias 
+	1) en catalogo - 
+	2) no en catalogo - 

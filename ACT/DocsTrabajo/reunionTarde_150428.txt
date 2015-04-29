@@ -1,0 +1,25 @@
+reunion 15.49
+attendees: JCJ, JLP, JVV, cristina egurza
+-------------------
+- se empieza con una discusion sobre si introducir el configurador de código 25 en el CRM para que el KAM lo pueda usar a la hora de sacar el código 25 pero se decide que no se necesita. Se buscará fuera el código 25. 
+- cristina necesita una excel con la lista de materiales para generar un código sap
+- código sap requiere lista de materiales definidas
+- el producto diseñado a medida es importantisimo.
+- después de solicitarle al PM board, se hace una bifurcación sobre si hacerun nuevo desarrollo. 
+- producto en desarrollo tiene: cod 25, estimacion de costes pero no SAP.
+- se ha permitido una cuarta opción en el flujo. Las opciones son, 
+	(i) buscar artículo de la BD 3, 
+	(ii) buscar artículo no existente catalogado 
+	(iii) artículo no existente no catalogado 
+	(iv) paso y escribo un campo texto libre.
+
+- le dan los costes finales a cristina egurza poco antes de fabricarse.
+- es común que no esté en la excel el código 25.
+- aplicar márgenes -> aplicar márgenes y provisión de garantías -> renombrar a "calcular precio de compra de ipt" -> tarea automatica ---
+- provision de garantía depende de la familia del producto.
+
+
+- se decide que la oferta va a ser no vinculante
+
+
+
