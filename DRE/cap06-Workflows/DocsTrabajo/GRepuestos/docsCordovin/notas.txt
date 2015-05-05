@@ -1,0 +1,18 @@
+RUTA EN IPT-FV:
+-> Z:\LOCAL.FOTOVOLTAICA\Comercial Fotovoltaica\Repuestos\Repuestos 2015\Listados de repuestos por equipo
+
+
+OBSERVACIONES:
+- la tarifa de los repuestos ‘oficiales’
+	* es las dos primeras hojas del libro:
+		+ Lista global 
+		+ Lista global IngeRev
+	* figuran códigos Sap, descripciones comerciales, costes, márgenes...
+
+- El resto de hojas (la mayoría de ellas aunque no todas)
+	* reflejan los repuestos de las diferentes versiones de los distintos modelos de equipos<
+
+- Si hacemos un configurador para ofertar listados recomendados de los equipos grandes
+	* habría que tener en cuenta otras dos hojas:
+		+ PMax Modulares 400A 
+		+ Monobloque definitivo

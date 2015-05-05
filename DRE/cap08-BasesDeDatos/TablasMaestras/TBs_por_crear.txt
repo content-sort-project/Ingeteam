@@ -1,0 +1,21 @@
+- TB Company Importance ....................................... 
+- TB Relations IPT .............................
+- TB Company Status ......................
+
+
+- TB IPT Weaknesses -> (BD13)
+- TB Activity Types -> BD13
+- TB INCOTERMS_2012
+
+- TB Activity Level
+- TB CVCP
+- TB NextContactDays
+- TB Containers -> BD15
+- TB Delivery Types -> BD15
+- TB Image Gallery
+- TB Company Relations
+- TB NumberofDays -> BD5
+- TB Markets -> BD6
+- TB NextContactDays -> BD7
+- TB Comm. Types -> BD7
+- TB Importance -> BD7
