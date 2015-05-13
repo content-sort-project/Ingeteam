@@ -15,7 +15,6 @@
   <graph edgedefault="directed" id="G">
     <data key="d0"/>
     <node id="n0">
-      <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.decision">
           <y:Geometry height="116.0" width="90.0" x="20.0" y="194.0"/>
@@ -33,7 +32,6 @@ el producto?<y:LabelModel>
       </data>
     </node>
     <node id="n1">
-      <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.decision">
           <y:Geometry height="90.0" width="80.0" x="140.0" y="290.0"/>
@@ -50,7 +48,6 @@ el producto?<y:LabelModel>
       </data>
     </node>
     <node id="n2">
-      <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
           <y:Geometry height="40.0" width="80.0" x="385.0" y="258.5"/>
@@ -67,7 +64,6 @@ el producto?<y:LabelModel>
       </data>
     </node>
     <node id="n3">
-      <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.preparation">
           <y:Geometry height="40.0" width="232.0" x="154.0" y="142.0"/>
@@ -84,7 +80,6 @@ el producto?<y:LabelModel>
       </data>
     </node>
     <node id="n4">
-      <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.preparation">
           <y:Geometry height="40.0" width="232.0" x="416.0" y="142.0"/>
@@ -101,7 +96,6 @@ el producto?<y:LabelModel>
       </data>
     </node>
     <node id="n5">
-      <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.sequentialData">
           <y:Geometry height="40.0" width="80.0" x="740.0" y="630.0"/>
@@ -118,7 +112,6 @@ el producto?<y:LabelModel>
       </data>
     </node>
     <node id="n6">
-      <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.sequentialData">
           <y:Geometry height="40.0" width="80.0" x="230.0" y="730.0"/>
@@ -135,7 +128,6 @@ el producto?<y:LabelModel>
       </data>
     </node>
     <node id="n7">
-      <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.preparation">
           <y:Geometry height="40.0" width="232.0" x="184.0" y="630.0"/>
@@ -152,25 +144,6 @@ el producto?<y:LabelModel>
       </data>
     </node>
     <node id="n8">
-      <data key="d5"/>
-      <data key="d6">
-        <y:GenericNode configuration="com.yworks.flowchart.decision">
-          <y:Geometry height="90.0" width="113.75" x="436.4375" y="375.0"/>
-          <y:Fill color="#E8EEF7" color2="#B7C9E3" transparent="false"/>
-          <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="54.6953125" x="29.52734375" y="28.298828125">¿Puedo 
-ofertarlo?<y:LabelModel>
-              <y:SmartNodeLabelModel distance="4.0"/>
-            </y:LabelModel>
-            <y:ModelParameter>
-              <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
-            </y:ModelParameter>
-          </y:NodeLabel>
-        </y:GenericNode>
-      </data>
-    </node>
-    <node id="n9">
-      <data key="d5"/>
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.preparation">
           <y:Geometry height="68.75" width="232.0" x="690.625" y="445.625"/>
@@ -187,8 +160,7 @@ board de product managers<y:LabelModel>
         </y:GenericNode>
       </data>
     </node>
-    <node id="n10">
-      <data key="d5"/>
+    <node id="n9">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
           <y:Geometry height="40.0" width="80.0" x="766.625" y="370.0"/>
@@ -205,8 +177,7 @@ desarrollo<y:LabelModel>
         </y:GenericNode>
       </data>
     </node>
-    <node id="n11">
-      <data key="d5"/>
+    <node id="n10">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
           <y:Geometry height="40.0" width="80.0" x="740.0" y="250.0"/>
@@ -223,8 +194,7 @@ alta CRM<y:LabelModel>
         </y:GenericNode>
       </data>
     </node>
-    <node id="n12">
-      <data key="d5"/>
+    <node id="n11">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.loopLimit">
           <y:Geometry height="101.0" width="876.8749999999999" x="11.562500000000057" y="-170.5"/>
@@ -241,8 +211,7 @@ CHECK NOTES. SHIT BE INCOMPLETE<y:LabelModel>
         </y:GenericNode>
       </data>
     </node>
-    <node id="n13">
-      <data key="d5"/>
+    <node id="n12">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.dataBase">
           <y:Geometry height="40.0" width="60.0" x="502.0" y="42.25"/>
@@ -258,8 +227,7 @@ CHECK NOTES. SHIT BE INCOMPLETE<y:LabelModel>
         </y:GenericNode>
       </data>
     </node>
-    <node id="n14">
-      <data key="d5"/>
+    <node id="n13">
       <data key="d6">
         <y:GenericNode configuration="com.yworks.flowchart.process">
           <y:Geometry height="60.0" width="215.0" x="86.5" y="510.0"/>
@@ -285,7 +253,6 @@ el Jefe de producto I+D decide
       </data>
     </node>
     <edge id="e0" source="n1" target="n2">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -312,7 +279,6 @@ el Jefe de producto I+D decide
       </data>
     </edge>
     <edge id="e1" source="n0" target="n1">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -331,7 +297,6 @@ el Jefe de producto I+D decide
       </data>
     </edge>
     <edge id="e2" source="n0" target="n3">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -350,7 +315,6 @@ el Jefe de producto I+D decide
       </data>
     </edge>
     <edge id="e3" source="n3" target="n4">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -360,8 +324,7 @@ el Jefe de producto I+D decide
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e4" source="n9" target="n5">
-      <data key="d9"/>
+    <edge id="e4" source="n8" target="n5">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="-76.62499999999989" sy="6.525000000000091" tx="0.0" ty="0.0"/>
@@ -380,7 +343,6 @@ el Jefe de producto I+D decide
       </data>
     </edge>
     <edge id="e5" source="n7" target="n6">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -390,8 +352,7 @@ el Jefe de producto I+D decide
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e6" source="n9" target="n10">
-      <data key="d9"/>
+    <edge id="e6" source="n8" target="n9">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -401,8 +362,7 @@ el Jefe de producto I+D decide
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e7" source="n2" target="n11">
-      <data key="d9"/>
+    <edge id="e7" source="n2" target="n10">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -412,8 +372,7 @@ el Jefe de producto I+D decide
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e8" source="n10" target="n11">
-      <data key="d9"/>
+    <edge id="e8" source="n9" target="n10">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -423,8 +382,7 @@ el Jefe de producto I+D decide
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e9" source="n13" target="n4">
-      <data key="d9"/>
+    <edge id="e9" source="n12" target="n4">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -434,8 +392,7 @@ el Jefe de producto I+D decide
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e10" source="n14" target="n9">
-      <data key="d9"/>
+    <edge id="e10" source="n13" target="n8">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -455,8 +412,7 @@ el Jefe de producto I+D decide
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="e11" source="n1" target="n14">
-      <data key="d9"/>
+    <edge id="e11" source="n1" target="n13">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -467,6 +423,25 @@ el Jefe de producto I+D decide
             </y:LabelModel>
             <y:ModelParameter>
               <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="right" ratio="0.5" segment="0"/>
+            </y:ModelParameter>
+            <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
+          </y:EdgeLabel>
+          <y:BendStyle smoothed="false"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e12" source="n13" target="n7">
+      <data key="d9"/>
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:LineStyle color="#000000" type="line" width="1.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:EdgeLabel alignment="center" configuration="AutoFlippingLabel" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="54.02734375" x="52.409199320410266" y="29.83505823752205">No viable<y:LabelModel>
+              <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
+            </y:LabelModel>
+            <y:ModelParameter>
+              <y:SmartEdgeLabelModelParameter angle="0.0" distance="30.0" distanceToCenter="true" position="left" ratio="1.0" segment="-1"/>
             </y:ModelParameter>
             <y:PreferredPlacementDescriptor angle="0.0" angleOffsetOnRightSide="0" angleReference="absolute" angleRotationOnRightSide="co" distance="-1.0" frozen="true" placement="anywhere" side="anywhere" sideReference="relative_to_edge_flow"/>
           </y:EdgeLabel>
