@@ -1,0 +1,2 @@
+En las pantalla de gestión de BBDD, y de formularios de tareas de WF, deberán existir leyendas/ayudas. Quizás un tooltip al pasar el ratón, o un iconito de ayuda.
+- BD1 Relation with Ingeteam, ayuda para cumplimentar correctamente si es una Bussiness Unit, o una Subsidiary.
