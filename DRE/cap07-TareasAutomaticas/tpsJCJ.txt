@@ -1,0 +1,8 @@
+-	Actualización periódica valores crédito otorgados por compañía riesgo crediticio
+-	Actualización periódica valores riesgo otorgados por comercial
+-	Tarea periódica de generación de IngeFlash (según calendario anual planificado)
+-	Emisión periódica (mensual) de informes planificados para HQ FV
+-	Generación campaña anual regalos de navidad
+-	Generación campaña anual encuestas de satisfacción
+-	Generación Newsletter bimensual cliente
+-	Solicitud anual datos para elaborar Plan de Gestión FV
