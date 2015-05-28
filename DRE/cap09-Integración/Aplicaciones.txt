@@ -1,0 +1,11 @@
+USA
+>SalesForce
+>BD contactos en Ingeteam INC/After Sales Solar - problemas con el nombre y apellidos, y con el nombre de las empresas que no es íntegro
+
+Aitor (Mkt):
+WordPress para www.ingeconsuntraining.info
+SendPress de WP
+ContactForm DB de WP para el formulario de registro
+
+Irene (Mkt):
+La Excel de medios tiene unos 120 contactos; pero se debeán cargar a mano

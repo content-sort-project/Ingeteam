@@ -1,0 +1,15 @@
+CURSOS DE FORMACIÓN ONLINE
+Aitor:
+Cursos - No CRM
+BD Marketing - Mailing => Lista Distribución Newsletters para USA y ES <> BD2 Contacts
+Levantar Leads desde dominios/webs corporativos.
+Cuando alguien se registra en un curso, se envía una respuesta automática con el enlace al Survey online, Formulario de calidad, cuando lo rellenen se genera un LEAD en la BD1.
+
+Registro de equipos. Aitor tiene una BD con Nombre, email, país, empresa, teléfono(opcional) y posición (opcional), identificación del equipo, con familia??? lo dijo Aitor de memoria... ¿Para una fase 2?
+
+Irene:
+- Encuestas - ¿online mejor que en PDF?
+- Regalos
+- Ferias
+
+Carlos Lezana:
